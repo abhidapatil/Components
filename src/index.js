@@ -12,9 +12,10 @@ import Pill from './Pill';
 import Breadcrub from './Breadcrub';
 import ButtonG from './ButtonG';
 import Nesting from './Nesting';
-import Card from './Card';
-import ImageOverlay from './ImageOverlay';
+
+
 import Nav from './Nav';
+
 
 
 const rootElement = document.getElementById('root');
@@ -32,9 +33,10 @@ root.render(
     <Breadcrub />
     <ButtonG />
     <Nesting />
-    <Card />
-    <ImageOverlay />
+  
+  
     <Nav />
-    <Carsd
+    
+  
   </StrictMode>
 );
